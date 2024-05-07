@@ -1,0 +1,51 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(./IMAGES/2.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 0 8%;
+}
+
+
+
+#main{
+    color: rgb(242, 238, 238);
+    /* background-color: rgb(193, 193, 193, 0.4); */
+    padding-top: 10%;
+    padding-right: 17%;
+    font-size: 60px;
+}
+
+
+
+
+
+
+.launchtime{
+    display: flex;
+    
+    padding-left: 21%;
+    padding-top: 0%;
+    
+}
+
+.launchtime div{
+    flex-basis: 100px;
+    
+}
+
+.launchtime div p{
+    /* background-color: black ; */
+    
+    color: white;
+
+    font-size: 60px;
+    margin-bottom: -14px;
+}
+
+.launchtime div p1{
+    color: white;
+ font-size: 20px;
+ font-weight: bolder;
+}
